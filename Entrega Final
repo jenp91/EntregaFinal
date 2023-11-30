@@ -1,3 +1,6 @@
+#Correr codigo en R en una VM de GCP reemplazando su archivo en PARAM$input$dataset
+
+
 # limpio la memoria
 rm(list = ls()) # remove all objects
 gc() # garbage collection
